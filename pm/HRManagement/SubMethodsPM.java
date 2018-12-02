@@ -13,7 +13,6 @@ import pojo.HRPojo;
 public class SubMethodsPM 
 {
 
-	private static Statement statement = null;
 
 	private static DatabaseConnection dbConnector = new DatabaseConnection();
 
